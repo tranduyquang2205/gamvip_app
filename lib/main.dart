@@ -11,7 +11,7 @@ import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
 const kAndroidUserAgent =
     'Mozilla/5.0 (Linux; Android 5.1.1; SM-G9360L Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome Beta/10.0.18363.418 Mobile Safari/537.36';
 String urlCallback = 'http://appdevdemo.tk/Gamvip';
-String selectedUrl = 'http://gam.vin/mobile;
+String selectedUrl = 'http://gam.vin/mobile';
 String selectedUrl1 = 'https://www.google.com/?ref=download#/';
 //String urlCallback = 'http://192.168.1.10/App';
 String dialogStr = 'if (confirm("Hệ thống đang bận!")) {} else {}';
